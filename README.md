@@ -4,6 +4,8 @@ As they say, practice makes it not terribly bad. Here I'll try to solve a couple
 ## Tools and plataforms
 Python? C? C#? JS?
 * LeetCode
+* Coursera
+*  � � � � �
 
 ## Motivation
 ```
