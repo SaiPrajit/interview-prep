@@ -26,3 +26,10 @@ elif word > 'banana':
 else :
     print("neither")
 
+# String Library
+greet = 'Hello Bob'
+zap = greet.lower()
+print(zap)
+
+print('HI GUYS'.lower())
+
