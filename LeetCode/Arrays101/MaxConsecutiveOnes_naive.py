@@ -1,8 +1,9 @@
+# O(N)
+
 from typing import List
 
-
 class Solution:
-    def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
+    def findMaxConsecutiveOnes1(self, nums: List[int]) -> int:
         consec = 0
         consecMax = consec
 
