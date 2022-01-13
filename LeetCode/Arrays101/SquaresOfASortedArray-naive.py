@@ -5,7 +5,8 @@ from typing import List
 # Squaring each element and sorting the new array is very trivial
 # could you find an O(n) solution using a different approach?
 
-# O(N*log(N))
+# Time --> O(N*log(N))
+# Space --> O(1) , no extra space used
 
 
 class Solution:
