@@ -5,7 +5,7 @@ class Solution:
         k = 0
 
         for i in range(len(nums)):
-            # performing the swap
+            # performing the swap (not really because we erase 2)
             if nums[i] != val:
                 # partition
                 nums[k] = nums[i]
