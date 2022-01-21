@@ -1,0 +1,13 @@
+For algorithms:
+- realize that grinding leetcode is not always enough. For many people, especially me, going back to the fundamentals and understanding them is key.
+- After that, for every leetcode problem you do for practice, if all you got out of it is "now I know how to solve this specific question", then it's a waste of time. You need to try to gain a deep understanding of the algorithm so that it can help you identify a similar solution to another problem. Understand.
+- learn how to talk and articulate your solution as you solve.
+
+System design:
+- become AWS solutions architect certified. Or at least study for it at least you're going to take the exam.
+- gain an understanding of all system design components individually. There's plenty of resources online. You should really understand things like "sharding", "relational database design", "load balancers", "scalability", etc.
+- system design primer on Github got practice questions and answers
+
+Experience to talk about:
+- always try to do things at work that are relevant to system design. Work on gestures where you design things for scale.
+- if you really can't do the above, exaggerate an existing feature you worked on. Make sure you think of all its corners, because you may be asked about them.
